@@ -18,7 +18,7 @@ var client_secret = '3f8b5c442b4c4a0cba745875f4ab3208'; // Your secret
 var PORT = process.env.PORT || 4002
 
 var redirect_uri = 'https://camfarms.github.io/Tortoise/'; // Your redirect uri
-//I'm helping some more
+//I'm helping some more and some more
 /**
  * Generates a random string containing numbers and letters
  * @param  {number} length The length of the string
